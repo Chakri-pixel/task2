@@ -24,7 +24,7 @@
     table-layout: initial;
     margin: 40px auto;
     border-style: inset;
-    background-color:rgb(53, 226, 224);
+    background-color:rgb(242, 12, 154);
   }
   
   table.list {
@@ -38,12 +38,12 @@
     border: 1px solid rgb(255, 157, 104);
     text-align: left;
     padding: 8px 15px;
-    background-color:rgb(0, 156, 183) ;
+    background-color:rgb(189, 242, 82) ;
   }
   
   tr:nth-child(even),
   table.list thread > tr {
-    background-color: #d478f900;
+    background-color: #89519feb;
   }
   
   input[type="text"] {
@@ -57,7 +57,7 @@
   
   input[type="submit"],
   input[type="reset"] {
-    background: rgb(228, 247, 56);
+    background: rgb(238, 238, 230);
     padding: 6px 12px;
     margin: 15px 0 10px;
     display: inline-block;
@@ -78,7 +78,7 @@
   input[type="submit"],
   input[type="reset"] {
     background: #f3219f;
-    color: rgb(250, 99, 212);
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     font-family: cursive;
   }
